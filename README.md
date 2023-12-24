@@ -1,2 +1,2 @@
 # app - App
-> Manishha - My Business Application
+> Manishha Singh - My Business Application
