@@ -1,2 +1,2 @@
 # app - App
-> Manishha Singh - My Business Application
+> MS - My Business Application
