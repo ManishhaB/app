@@ -1,2 +1,2 @@
 # app - App
-> SSingh - My Business Application
+> MSSingh - My Business Application
